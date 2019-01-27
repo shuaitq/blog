@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>高精度 on Tom Smith&#39;s</title>
+    <link>http://localhost:1313/tags/%E9%AB%98%E7%B2%BE%E5%BA%A6/</link>
+    <description>Recent content in 高精度 on Tom Smith&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/%E9%AB%98%E7%B2%BE%E5%BA%A6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Noip模板大集合</title>
+      <link>http://localhost:1313/post/noip%E6%A8%A1%E6%9D%BF%E5%A4%A7%E9%9B%86%E5%90%88/</link>
+      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/noip%E6%A8%A1%E6%9D%BF%E5%A4%A7%E9%9B%86%E5%90%88/</guid>
+      <description>会有一些之前已经发过文章的算法，这里只是在最后一次Noip前进行一次模板总结，为最后一次Noip做准备（带去考场，误）。本人水平有限大家看到</description>
+    </item>
+    
+    <item>
+      <title>大整数开方</title>
+      <link>http://localhost:1313/post/%E5%A4%A7%E6%95%B4%E6%95%B0%E5%BC%80%E6%96%B9/</link>
+      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/%E5%A4%A7%E6%95%B4%E6%95%B0%E5%BC%80%E6%96%B9/</guid>
+      <description>输入一个正整数N(1≤N≤10^100 )，试用二分法计算它的平方根的整数部分。 题目非常明显，连方法都告诉你了，就是实现一个高精度，二分答案。</description>
+    </item>
+    
+  </channel>
+</rss>

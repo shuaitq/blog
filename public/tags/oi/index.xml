@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oi on Tom Smith&#39;s</title>
+    <link>http://localhost:1313/tags/oi/</link>
+    <description>Recent content in Oi on Tom Smith&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/oi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Noip初赛结束</title>
+      <link>http://localhost:1313/post/noip%E5%88%9D%E8%B5%9B%E7%BB%93%E6%9D%9F-/</link>
+      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/noip%E5%88%9D%E8%B5%9B%E7%BB%93%E6%9D%9F-/</guid>
+      <description>按道理来说这个这个不应该写出来，毕竟初赛那么简单，但是我还是做一下总结，因为我在初赛中还是发现了一些自己依然不了解的知识点。成绩自己预计有6</description>
+    </item>
+    
+    <item>
+      <title>Noip模板大集合</title>
+      <link>http://localhost:1313/post/noip%E6%A8%A1%E6%9D%BF%E5%A4%A7%E9%9B%86%E5%90%88/</link>
+      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/noip%E6%A8%A1%E6%9D%BF%E5%A4%A7%E9%9B%86%E5%90%88/</guid>
+      <description>会有一些之前已经发过文章的算法，这里只是在最后一次Noip前进行一次模板总结，为最后一次Noip做准备（带去考场，误）。本人水平有限大家看到</description>
+    </item>
+    
+    <item>
+      <title>二分查找</title>
+      <link>http://localhost:1313/post/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/</link>
+      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/</guid>
+      <description>本以为自己会写二分查找，不过就是取中间值和要找的对象进行比较大小，再根据比较的结果，选择左边还是右边。最终找到要找的东西。但是正如Jon Be</description>
+    </item>
+    
+    <item>
+      <title>大整数开方</title>
+      <link>http://localhost:1313/post/%E5%A4%A7%E6%95%B4%E6%95%B0%E5%BC%80%E6%96%B9/</link>
+      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/%E5%A4%A7%E6%95%B4%E6%95%B0%E5%BC%80%E6%96%B9/</guid>
+      <description>输入一个正整数N(1≤N≤10^100 )，试用二分法计算它的平方根的整数部分。 题目非常明显，连方法都告诉你了，就是实现一个高精度，二分答案。</description>
+    </item>
+    
+    <item>
+      <title>快速幂</title>
+      <link>http://localhost:1313/post/%E5%BF%AB%E9%80%9F%E5%B9%82/</link>
+      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/%E5%BF%AB%E9%80%9F%E5%B9%82/</guid>
+      <description>快速幂正如其名字所说十分的快，非常的快，假如我们要求x^y，那么我们需要进行y次乘法，而快速幂却只需要进行y的二进制的1的个数次乘法就可以了</description>
+    </item>
+    
+    <item>
+      <title>树状数组</title>
+      <link>http://localhost:1313/post/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/</link>
+      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/</guid>
+      <description>BYvoid神犇曾经说过。 树状数组是一个优美小巧的数据结构 它没有像其他数据结构那样复杂，在很多时候可以代替线段树，它仅通过简单的几个函数，不</description>
+    </item>
+    
+    <item>
+      <title>神奇的二进制</title>
+      <link>http://localhost:1313/post/%E7%A5%9E%E5%A5%87%E7%9A%84%E4%BA%8C%E8%BF%9B%E5%88%B6/</link>
+      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/%E7%A5%9E%E5%A5%87%E7%9A%84%E4%BA%8C%E8%BF%9B%E5%88%B6/</guid>
+      <description>二进制是一个很有趣的东西，它是电脑中储存信息的最小单位，其中有一些非常神奇的用法。其实是写二进制题目写得要死。 二进制在电脑中是以补码的形式存</description>
+    </item>
+    
+  </channel>
+</rss>
