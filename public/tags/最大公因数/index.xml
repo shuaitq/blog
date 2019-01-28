@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>最大公因数 on Tom Smith&#39;s</title>
-    <link>http://localhost:1313/tags/%E6%9C%80%E5%A4%A7%E5%85%AC%E5%9B%A0%E6%95%B0/</link>
+    <link>https://shuaitq.github.io/tags/%E6%9C%80%E5%A4%A7%E5%85%AC%E5%9B%A0%E6%95%B0/</link>
     <description>Recent content in 最大公因数 on Tom Smith&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 30 Jan 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/%E6%9C%80%E5%A4%A7%E5%85%AC%E5%9B%A0%E6%95%B0/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shuaitq.github.io/tags/%E6%9C%80%E5%A4%A7%E5%85%AC%E5%9B%A0%E6%95%B0/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Noip模板大集合</title>
-      <link>http://localhost:1313/post/noip%E6%A8%A1%E6%9D%BF%E5%A4%A7%E9%9B%86%E5%90%88/</link>
+      <link>https://shuaitq.github.io/post/noip%E6%A8%A1%E6%9D%BF%E5%A4%A7%E9%9B%86%E5%90%88/</link>
       <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/noip%E6%A8%A1%E6%9D%BF%E5%A4%A7%E9%9B%86%E5%90%88/</guid>
+      <guid>https://shuaitq.github.io/post/noip%E6%A8%A1%E6%9D%BF%E5%A4%A7%E9%9B%86%E5%90%88/</guid>
       <description>会有一些之前已经发过文章的算法，这里只是在最后一次Noip前进行一次模板总结，为最后一次Noip做准备（带去考场，误）。本人水平有限大家看到</description>
     </item>
     

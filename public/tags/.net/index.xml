@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>.Net on Tom Smith&#39;s</title>
-    <link>http://localhost:1313/tags/.net/</link>
+    <link>https://shuaitq.github.io/tags/.net/</link>
     <description>Recent content in .Net on Tom Smith&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 30 Jan 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shuaitq.github.io/tags/.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>第一次逆向工程</title>
-      <link>http://localhost:1313/post/%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/</link>
+      <link>https://shuaitq.github.io/post/%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/</link>
       <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/</guid>
+      <guid>https://shuaitq.github.io/post/%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/</guid>
       <description>起因 由于某些特殊的原因，有了这次逆向工程。恰逢元旦放假，还是放一天半，这对于我们来说还真是多啊。于是就有了这次逆向工程。 由于原来完全不懂逆向</description>
     </item>
     
