@@ -1,9 +1,9 @@
 ---
 title: "Noip初赛结束"
-date: 2016-01-30
+date: 2016-01-31
 draft: false
 tags: ["OI", "指针", "链表"]
-# categories: ["docs", "shortcodes", "index"]
+categories: ["竞赛"]
 author: "Tom Smith"
 ---
 
@@ -15,6 +15,8 @@ author: "Tom Smith"
 > 
 > A.必须连续。B.部分地址必须连续。C.一定不连续。D.连续不连续均可。
 
+<!--more-->
+
 链表虽说每个节点可以分布在不连续的内存地址中但是每一个node中的地址肯定是要连续的。并不知道他说的到底是内存单元还是每个node，于是填了B就错了= =。
 
 不过哈夫曼树、二分图、完全图考试的时候不记得是什么东西去了，到时候去看一下。
@@ -25,16 +27,18 @@ author: "Tom Smith"
 
 ```C++
 #include <cstdio>
-void fun(char *a,char *b){//这里创建了指针a和b
-	a=b;//这里仅仅只是把b的指针赋值给了a并没有改变地址内的值 
-	(*a)++;//取出a指向地址内的值并使之自增 a->b 
+void fun(char *a, char *b){	//这里创建了指针a和b
+	a = b;					//这里仅仅只是把b的指针赋值给了a并没有改变地址内的值 
+	++ (*a);				//取出a指向地址内的值并使之自增 a->b 
 }
 int main(void){
-	char a,b,*c,*d;
-	a='A';b='a';
-	c=&a;d=&b;
-	fun(c,d);//c和d是两个指针指向a和b 
-	printf("%c%c\n",a,b);
+	char a, b, *c, *d;
+	a = 'A';
+	b = 'a';
+	c = &a;
+	d = &b;
+	fun(c, d);				//c和d是两个指针指向a和b 
+	printf("%c%c\n", a, b);
     return 0;
 }
 ```
@@ -43,16 +47,18 @@ int main(void){
 
 ```C++
 #include <cstdio>
-void fun(char *a,char *b){//这里创建了指针a和b
-	*a=*b;//取出a地址中的值把b中地址的值赋值给a，即 A->a 
-	(*a)++;//取出a指向地址内的值并使之自增 a->b 
+void fun(char *a, char *b){	//这里创建了指针a和b
+	*a =  *b;				//取出a地址中的值把b中地址的值赋值给a，即 A->a 
+	++ (*a);				//取出a指向地址内的值并使之自增 a->b 
 }
 int main(void){
-	char a,b,*c,*d;
-	a='A';b='a';
-	c=&a;d=&b;
-	fun(c,d);//c和d是两个指针指向a和b 
-	printf("%c%c\n",a,b);
+	char a, b, *c, *d;
+	a = 'A';
+	b = 'a';
+	c = &a;
+	d = &b;
+	fun(c, d);				//c和d是两个指针指向a和b 
+	printf("%c%c\n", a, b);
     return 0;
 }
 ```

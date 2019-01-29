@@ -1,15 +1,17 @@
 ---
 title: "Noip模板大集合"
-date: 2016-01-30
+date: 2016-02-02
 draft: false
 tags: ["OI", "Dijkstra", "Floyd", "SPFA", "宏", "并查集", "归并排序", "快速幂", "最大公因数", "最小公倍数", "模运算", "筛法", "读入优化", "质数", "高精度"]
-# categories: ["docs", "shortcodes", "index"]
+categories: ["竞赛"]
 author: "Tom Smith"
 ---
 
 会有一些之前已经发过文章的算法，这里只是在最后一次Noip前进行一次模板总结，为最后一次Noip做准备~~（带去考场，误）~~。本人水平有限大家看到特别不爽的地方还是忍忍吧。
 
 下面马上就开始了：
+
+<!--more-->
 
 # 首先是宏模板
 
