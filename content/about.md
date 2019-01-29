@@ -20,6 +20,7 @@ weight: 50
 # 环境与技术栈
 
 开发环境： Fedora + VS Code + 编译器
+
 编程语言： C++ > C > Java > Python > Go
 
 # 项目
