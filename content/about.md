@@ -1,5 +1,5 @@
 ---
-title: "Tom Smith"
+title: "About"
 date: 2019-01-29
 menu: "main"
 weight: 50
