@@ -6,7 +6,7 @@
     <description>Recent content in 并查集 on Tom Smith&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Feb 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shuaitq.github.io/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,12 @@
     <item>
       <title>Noip模板大集合</title>
       <link>https://shuaitq.github.io/post/noip%E6%A8%A1%E6%9D%BF%E5%A4%A7%E9%9B%86%E5%90%88/</link>
-      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://shuaitq.github.io/post/noip%E6%A8%A1%E6%9D%BF%E5%A4%A7%E9%9B%86%E5%90%88/</guid>
-      <description>会有一些之前已经发过文章的算法，这里只是在最后一次Noip前进行一次模板总结，为最后一次Noip做准备（带去考场，误）。本人水平有限大家看到</description>
+      <description>&lt;p&gt;会有一些之前已经发过文章的算法，这里只是在最后一次Noip前进行一次模板总结，为最后一次Noip做准备&lt;del&gt;（带去考场，误）&lt;/del&gt;。本人水平有限大家看到特别不爽的地方还是忍忍吧。&lt;/p&gt;
+
+&lt;p&gt;下面马上就开始了：&lt;/p&gt;</description>
     </item>
     
   </channel>

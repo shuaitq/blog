@@ -10,5 +10,23 @@
 	<atom:link href="https://shuaitq.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>扯淡</title>
+      <link>https://shuaitq.github.io/categories/%E6%89%AF%E6%B7%A1/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaitq.github.io/categories/%E6%89%AF%E6%B7%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>竞赛</title>
+      <link>https://shuaitq.github.io/categories/%E7%AB%9E%E8%B5%9B/</link>
+      <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaitq.github.io/categories/%E7%AB%9E%E8%B5%9B/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

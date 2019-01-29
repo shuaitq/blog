@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Tom Smith&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Feb 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shuaitq.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>.Net</title>
       <link>https://shuaitq.github.io/tags/.net/</link>
-      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://shuaitq.github.io/tags/.net/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Dijkstra</title>
       <link>https://shuaitq.github.io/tags/dijkstra/</link>
-      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://shuaitq.github.io/tags/dijkstra/</guid>
       <description></description>
@@ -41,9 +41,18 @@
     <item>
       <title>Floyd</title>
       <link>https://shuaitq.github.io/tags/floyd/</link>
-      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://shuaitq.github.io/tags/floyd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>https://shuaitq.github.io/tags/go/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaitq.github.io/tags/go/</guid>
       <description></description>
     </item>
     
@@ -53,6 +62,15 @@
       <pubDate>Fri, 29 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://shuaitq.github.io/tags/hexo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://shuaitq.github.io/tags/hugo/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaitq.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
@@ -68,7 +86,7 @@
     <item>
       <title>Oi</title>
       <link>https://shuaitq.github.io/tags/oi/</link>
-      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://shuaitq.github.io/tags/oi/</guid>
       <description></description>
@@ -77,7 +95,7 @@
     <item>
       <title>Spfa</title>
       <link>https://shuaitq.github.io/tags/spfa/</link>
-      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://shuaitq.github.io/tags/spfa/</guid>
       <description></description>
@@ -93,18 +111,9 @@
     </item>
     
     <item>
-      <title>位运算</title>
-      <link>https://shuaitq.github.io/tags/%E4%BD%8D%E8%BF%90%E7%AE%97/</link>
-      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuaitq.github.io/tags/%E4%BD%8D%E8%BF%90%E7%AE%97/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>博客</title>
       <link>https://shuaitq.github.io/tags/%E5%8D%9A%E5%AE%A2/</link>
-      <pubDate>Fri, 29 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://shuaitq.github.io/tags/%E5%8D%9A%E5%AE%A2/</guid>
       <description></description>
@@ -113,7 +122,7 @@
     <item>
       <title>反编译</title>
       <link>https://shuaitq.github.io/tags/%E5%8F%8D%E7%BC%96%E8%AF%91/</link>
-      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://shuaitq.github.io/tags/%E5%8F%8D%E7%BC%96%E8%AF%91/</guid>
       <description></description>
@@ -122,7 +131,7 @@
     <item>
       <title>宏</title>
       <link>https://shuaitq.github.io/tags/%E5%AE%8F/</link>
-      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://shuaitq.github.io/tags/%E5%AE%8F/</guid>
       <description></description>
@@ -131,7 +140,7 @@
     <item>
       <title>并查集</title>
       <link>https://shuaitq.github.io/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/</link>
-      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://shuaitq.github.io/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/</guid>
       <description></description>
@@ -140,7 +149,7 @@
     <item>
       <title>归并排序</title>
       <link>https://shuaitq.github.io/tags/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F/</link>
-      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://shuaitq.github.io/tags/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F/</guid>
       <description></description>
@@ -149,16 +158,25 @@
     <item>
       <title>快速幂</title>
       <link>https://shuaitq.github.io/tags/%E5%BF%AB%E9%80%9F%E5%B9%82/</link>
-      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://shuaitq.github.io/tags/%E5%BF%AB%E9%80%9F%E5%B9%82/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>想法</title>
+      <link>https://shuaitq.github.io/tags/%E6%83%B3%E6%B3%95/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaitq.github.io/tags/%E6%83%B3%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>指针</title>
       <link>https://shuaitq.github.io/tags/%E6%8C%87%E9%92%88/</link>
-      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 31 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://shuaitq.github.io/tags/%E6%8C%87%E9%92%88/</guid>
       <description></description>
@@ -167,27 +185,9 @@
     <item>
       <title>最大公因数</title>
       <link>https://shuaitq.github.io/tags/%E6%9C%80%E5%A4%A7%E5%85%AC%E5%9B%A0%E6%95%B0/</link>
-      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://shuaitq.github.io/tags/%E6%9C%80%E5%A4%A7%E5%85%AC%E5%9B%A0%E6%95%B0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>最小公倍数</title>
-      <link>https://shuaitq.github.io/tags/%E6%9C%80%E5%B0%8F%E5%85%AC%E5%80%8D%E6%95%B0/</link>
-      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuaitq.github.io/tags/%E6%9C%80%E5%B0%8F%E5%85%AC%E5%80%8D%E6%95%B0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>树状数组</title>
-      <link>https://shuaitq.github.io/tags/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/</link>
-      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuaitq.github.io/tags/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/</guid>
       <description></description>
     </item>
     

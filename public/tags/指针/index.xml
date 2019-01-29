@@ -6,7 +6,7 @@
     <description>Recent content in 指针 on Tom Smith&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Jan 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shuaitq.github.io/tags/%E6%8C%87%E9%92%88/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,18 @@
     <item>
       <title>Noip初赛结束</title>
       <link>https://shuaitq.github.io/post/noip%E5%88%9D%E8%B5%9B%E7%BB%93%E6%9D%9F-/</link>
-      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 31 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://shuaitq.github.io/post/noip%E5%88%9D%E8%B5%9B%E7%BB%93%E6%9D%9F-/</guid>
-      <description>按道理来说这个这个不应该写出来，毕竟初赛那么简单，但是我还是做一下总结，因为我在初赛中还是发现了一些自己依然不了解的知识点。成绩自己预计有6</description>
+      <description>&lt;p&gt;按道理来说这个这个不应该写出来，毕竟初赛那么简单，但是我还是做一下总结，因为我在初赛中还是发现了一些自己依然不了解的知识点。成绩自己预计有66分左右，这让我无限感叹：还是湖南好，不像浙江省90+的初赛线，还让不让人活了。看来湖南除了高考分数线高以外还是有一点优点的。&lt;/p&gt;
+
+&lt;p&gt;选择题不是很难，但是有几个比较坑的地方，比如像是链表储存那道题&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;线性表若采用链表储存结构，要求内存中可用储存单元地址。&lt;/p&gt;
+
+&lt;p&gt;A.必须连续。B.部分地址必须连续。C.一定不连续。D.连续不连续均可。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
   </channel>

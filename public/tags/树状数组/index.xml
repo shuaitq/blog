@@ -6,7 +6,7 @@
     <description>Recent content in 树状数组 on Tom Smith&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Feb 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shuaitq.github.io/tags/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,18 @@
     <item>
       <title>树状数组</title>
       <link>https://shuaitq.github.io/post/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/</link>
-      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://shuaitq.github.io/post/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/</guid>
-      <description>BYvoid神犇曾经说过。 树状数组是一个优美小巧的数据结构 它没有像其他数据结构那样复杂，在很多时候可以代替线段树，它仅通过简单的几个函数，不</description>
+      <description>&lt;p&gt;BYvoid神犇曾经说过。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;树状数组是一个优美小巧的数据结构&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;它没有像其他数据结构那样复杂，在很多时候可以代替线段树，它仅通过简单的几个函数，不需要任何其他的空间，就成功的把求前序和的时间复杂度降到了$O(\log_2 n)$，当然代价就是插入的时间复杂度也变成了$O(\log_2 n)$，不过为了能够快速的求前序和，这是在所难免的。
+在树状数组中，一个元素所代表并不只有自己，比如a[15]，因为15的二进制是00001111，所以这个a[00001111] = a[00001110] + a[00001100] + a[00001000]；
+即a[15] = a[14] + a[12] + a[8]；&lt;/p&gt;</description>
     </item>
     
   </channel>

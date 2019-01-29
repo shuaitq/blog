@@ -17,7 +17,11 @@
       <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://shuaitq.github.io/post/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/</guid>
-      <description>本以为自己会写二分查找，不过就是取中间值和要找的对象进行比较大小，再根据比较的结果，选择左边还是右边。最终找到要找的东西。但是正如Jon Be</description>
+      <description>&lt;p&gt;本以为自己会写二分查找，不过就是取中间值和要找的对象进行比较大小，再根据比较的结果，选择左边还是右边。最终找到要找的东西。但是正如Jon Bentley所说&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;90%以上的程序员无法正确无误的写出二分查找代码。 ——Jon Bentley&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
   </channel>

@@ -17,7 +17,15 @@
       <pubDate>Fri, 29 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://shuaitq.github.io/post/hello-hexo/</guid>
-      <description>第三次搭建博客 回想一下,这已经是我第三次搭建博客了。 最初被Bokjan强力推荐后用了简洁的emlog。当时还是蒟蒻的我用了一段时间，但是用着</description>
+      <description>&lt;h1 id=&#34;第三次搭建博客&#34;&gt;第三次搭建博客&lt;/h1&gt;
+
+&lt;p&gt;回想一下,这已经是我第三次搭建博客了。&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;最初被Bokjan强力推荐后用了简洁的emlog。当时还是蒟蒻的我用了一段时间，但是用着用着就感觉有一点简陋，因为本人无力修改，在最后强迫症发作没有用了。&lt;/li&gt;
+&lt;li&gt;后来仔细振作斟酌后入了自己的第一台在阿里云独立主机并在上面搭建了lnmp环境和WordPress。至今还清晰的记得当时完成是的兴奋。可是国内的大环境是这样的Google字体完全被封，加上WordPress过于臃肿导致网站访问速度十分的慢，网上也没有很好的解决办法，就一直想要换掉，这次正好换掉。&lt;/li&gt;
+&lt;li&gt;现在我之后在网上看了一圈后看到了静态博客，特点：静态、访问速度极快、专注文章、自由定制，好像还不错的样子，于是去github搜了一个很有名的Jeklly可是看了一圈也没有搞出来，看到了隔壁的Hexo好像也不错的样子，而且比较好上手于是就用上了。&lt;/li&gt;
+&lt;/ol&gt;</description>
     </item>
     
   </channel>

@@ -6,27 +6,78 @@
     <description>Recent content in Posts on Tom Smith&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shuaitq.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Noip初赛结束</title>
-      <link>https://shuaitq.github.io/post/noip%E5%88%9D%E8%B5%9B%E7%BB%93%E6%9D%9F-/</link>
-      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      <title>Hello Hugo</title>
+      <link>https://shuaitq.github.io/post/hello-hugo/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://shuaitq.github.io/post/noip%E5%88%9D%E8%B5%9B%E7%BB%93%E6%9D%9F-/</guid>
-      <description>按道理来说这个这个不应该写出来，毕竟初赛那么简单，但是我还是做一下总结，因为我在初赛中还是发现了一些自己依然不了解的知识点。成绩自己预计有6</description>
+      <guid>https://shuaitq.github.io/post/hello-hugo/</guid>
+      <description>&lt;h1 id=&#34;第四次搭建博客&#34;&gt;第四次搭建博客&lt;/h1&gt;
+
+&lt;p&gt;回想一下，之前第三次搭建的博客因为不知道源码在哪一次重装之后丢失，部署的html文件在一次服务器迁移中因为字符集问题导致中文乱码。至今已经有接近三年没有打理过这个博客，一直处在不可访问的状态。这次趁着整理大学三年以来的各种项目为接下来的计划作准备正好打理打理这个博客，重新搭建，让它回到正常运作中。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>第一次逆向工程</title>
+      <link>https://shuaitq.github.io/post/%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/</link>
+      <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaitq.github.io/post/%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/</guid>
+      <description>&lt;h1 id=&#34;起因&#34;&gt;起因&lt;/h1&gt;
+
+&lt;p&gt;由于某些特殊的原因，有了这次逆向工程。恰逢元旦放假，还是放一天半，这对于我们来说还真是多啊。于是就有了这次逆向工程。&lt;/p&gt;
+
+&lt;p&gt;由于原来完全不懂逆向工程，就开始满网络找找教程。看了一圈后思路渐渐就清晰了。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Noip模板大集合</title>
       <link>https://shuaitq.github.io/post/noip%E6%A8%A1%E6%9D%BF%E5%A4%A7%E9%9B%86%E5%90%88/</link>
-      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://shuaitq.github.io/post/noip%E6%A8%A1%E6%9D%BF%E5%A4%A7%E9%9B%86%E5%90%88/</guid>
-      <description>会有一些之前已经发过文章的算法，这里只是在最后一次Noip前进行一次模板总结，为最后一次Noip做准备（带去考场，误）。本人水平有限大家看到</description>
+      <description>&lt;p&gt;会有一些之前已经发过文章的算法，这里只是在最后一次Noip前进行一次模板总结，为最后一次Noip做准备&lt;del&gt;（带去考场，误）&lt;/del&gt;。本人水平有限大家看到特别不爽的地方还是忍忍吧。&lt;/p&gt;
+
+&lt;p&gt;下面马上就开始了：&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>树状数组</title>
+      <link>https://shuaitq.github.io/post/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaitq.github.io/post/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/</guid>
+      <description>&lt;p&gt;BYvoid神犇曾经说过。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;树状数组是一个优美小巧的数据结构&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;它没有像其他数据结构那样复杂，在很多时候可以代替线段树，它仅通过简单的几个函数，不需要任何其他的空间，就成功的把求前序和的时间复杂度降到了$O(\log_2 n)$，当然代价就是插入的时间复杂度也变成了$O(\log_2 n)$，不过为了能够快速的求前序和，这是在所难免的。
+在树状数组中，一个元素所代表并不只有自己，比如a[15]，因为15的二进制是00001111，所以这个a[00001111] = a[00001110] + a[00001100] + a[00001000]；
+即a[15] = a[14] + a[12] + a[8]；&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Noip初赛结束</title>
+      <link>https://shuaitq.github.io/post/noip%E5%88%9D%E8%B5%9B%E7%BB%93%E6%9D%9F-/</link>
+      <pubDate>Sun, 31 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaitq.github.io/post/noip%E5%88%9D%E8%B5%9B%E7%BB%93%E6%9D%9F-/</guid>
+      <description>&lt;p&gt;按道理来说这个这个不应该写出来，毕竟初赛那么简单，但是我还是做一下总结，因为我在初赛中还是发现了一些自己依然不了解的知识点。成绩自己预计有66分左右，这让我无限感叹：还是湖南好，不像浙江省90+的初赛线，还让不让人活了。看来湖南除了高考分数线高以外还是有一点优点的。&lt;/p&gt;
+
+&lt;p&gt;选择题不是很难，但是有几个比较坑的地方，比如像是链表储存那道题&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;线性表若采用链表储存结构，要求内存中可用储存单元地址。&lt;/p&gt;
+
+&lt;p&gt;A.必须连续。B.部分地址必须连续。C.一定不连续。D.连续不连续均可。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
@@ -35,52 +86,11 @@
       <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://shuaitq.github.io/post/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/</guid>
-      <description>本以为自己会写二分查找，不过就是取中间值和要找的对象进行比较大小，再根据比较的结果，选择左边还是右边。最终找到要找的东西。但是正如Jon Be</description>
-    </item>
-    
-    <item>
-      <title>大整数开方</title>
-      <link>https://shuaitq.github.io/post/%E5%A4%A7%E6%95%B4%E6%95%B0%E5%BC%80%E6%96%B9/</link>
-      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuaitq.github.io/post/%E5%A4%A7%E6%95%B4%E6%95%B0%E5%BC%80%E6%96%B9/</guid>
-      <description>输入一个正整数N(1≤N≤10^100 )，试用二分法计算它的平方根的整数部分。 题目非常明显，连方法都告诉你了，就是实现一个高精度，二分答案。</description>
-    </item>
-    
-    <item>
-      <title>快速幂</title>
-      <link>https://shuaitq.github.io/post/%E5%BF%AB%E9%80%9F%E5%B9%82/</link>
-      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuaitq.github.io/post/%E5%BF%AB%E9%80%9F%E5%B9%82/</guid>
-      <description>快速幂正如其名字所说十分的快，非常的快，假如我们要求x^y，那么我们需要进行y次乘法，而快速幂却只需要进行y的二进制的1的个数次乘法就可以了</description>
-    </item>
-    
-    <item>
-      <title>树状数组</title>
-      <link>https://shuaitq.github.io/post/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/</link>
-      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuaitq.github.io/post/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/</guid>
-      <description>BYvoid神犇曾经说过。 树状数组是一个优美小巧的数据结构 它没有像其他数据结构那样复杂，在很多时候可以代替线段树，它仅通过简单的几个函数，不</description>
-    </item>
-    
-    <item>
-      <title>神奇的二进制</title>
-      <link>https://shuaitq.github.io/post/%E7%A5%9E%E5%A5%87%E7%9A%84%E4%BA%8C%E8%BF%9B%E5%88%B6/</link>
-      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuaitq.github.io/post/%E7%A5%9E%E5%A5%87%E7%9A%84%E4%BA%8C%E8%BF%9B%E5%88%B6/</guid>
-      <description>二进制是一个很有趣的东西，它是电脑中储存信息的最小单位，其中有一些非常神奇的用法。其实是写二进制题目写得要死。 二进制在电脑中是以补码的形式存</description>
-    </item>
-    
-    <item>
-      <title>第一次逆向工程</title>
-      <link>https://shuaitq.github.io/post/%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/</link>
-      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuaitq.github.io/post/%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/</guid>
-      <description>起因 由于某些特殊的原因，有了这次逆向工程。恰逢元旦放假，还是放一天半，这对于我们来说还真是多啊。于是就有了这次逆向工程。 由于原来完全不懂逆向</description>
+      <description>&lt;p&gt;本以为自己会写二分查找，不过就是取中间值和要找的对象进行比较大小，再根据比较的结果，选择左边还是右边。最终找到要找的东西。但是正如Jon Bentley所说&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;90%以上的程序员无法正确无误的写出二分查找代码。 ——Jon Bentley&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
@@ -89,7 +99,15 @@
       <pubDate>Fri, 29 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://shuaitq.github.io/post/hello-hexo/</guid>
-      <description>第三次搭建博客 回想一下,这已经是我第三次搭建博客了。 最初被Bokjan强力推荐后用了简洁的emlog。当时还是蒟蒻的我用了一段时间，但是用着</description>
+      <description>&lt;h1 id=&#34;第三次搭建博客&#34;&gt;第三次搭建博客&lt;/h1&gt;
+
+&lt;p&gt;回想一下,这已经是我第三次搭建博客了。&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;最初被Bokjan强力推荐后用了简洁的emlog。当时还是蒟蒻的我用了一段时间，但是用着用着就感觉有一点简陋，因为本人无力修改，在最后强迫症发作没有用了。&lt;/li&gt;
+&lt;li&gt;后来仔细振作斟酌后入了自己的第一台在阿里云独立主机并在上面搭建了lnmp环境和WordPress。至今还清晰的记得当时完成是的兴奋。可是国内的大环境是这样的Google字体完全被封，加上WordPress过于臃肿导致网站访问速度十分的慢，网上也没有很好的解决办法，就一直想要换掉，这次正好换掉。&lt;/li&gt;
+&lt;li&gt;现在我之后在网上看了一圈后看到了静态博客，特点：静态、访问速度极快、专注文章、自由定制，好像还不错的样子，于是去github搜了一个很有名的Jeklly可是看了一圈也没有搞出来，看到了隔壁的Hexo好像也不错的样子，而且比较好上手于是就用上了。&lt;/li&gt;
+&lt;/ol&gt;</description>
     </item>
     
   </channel>

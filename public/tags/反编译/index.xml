@@ -6,7 +6,7 @@
     <description>Recent content in 反编译 on Tom Smith&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Feb 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shuaitq.github.io/tags/%E5%8F%8D%E7%BC%96%E8%AF%91/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,14 @@
     <item>
       <title>第一次逆向工程</title>
       <link>https://shuaitq.github.io/post/%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/</link>
-      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://shuaitq.github.io/post/%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/</guid>
-      <description>起因 由于某些特殊的原因，有了这次逆向工程。恰逢元旦放假，还是放一天半，这对于我们来说还真是多啊。于是就有了这次逆向工程。 由于原来完全不懂逆向</description>
+      <description>&lt;h1 id=&#34;起因&#34;&gt;起因&lt;/h1&gt;
+
+&lt;p&gt;由于某些特殊的原因，有了这次逆向工程。恰逢元旦放假，还是放一天半，这对于我们来说还真是多啊。于是就有了这次逆向工程。&lt;/p&gt;
+
+&lt;p&gt;由于原来完全不懂逆向工程，就开始满网络找找教程。看了一圈后思路渐渐就清晰了。&lt;/p&gt;</description>
     </item>
     
   </channel>
