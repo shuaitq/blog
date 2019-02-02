@@ -21,7 +21,7 @@ weight: 50
 
 开发环境： Fedora + VS Code + 编译器
 
-编程语言： C++ = C > Java = Python = Go > Haskell >s Rust
+编程语言： C++ = C > Java = Python = Go > Haskell > Rust
 
 # 项目
 
