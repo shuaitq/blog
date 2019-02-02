@@ -13,7 +13,7 @@ weight: 50
 
 # 找到我
 
-* Email: [1101282468@qq.com](mailto:1101282468@qq.com)
+* Email: <1101282468@qq.com>
 * QQ: 1101282468
 * Github: [https://github.com/shuaitq](https://github.com/shuaitq)
 
