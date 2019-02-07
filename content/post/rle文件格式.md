@@ -2,7 +2,7 @@
 title: "rle文件格式"
 date: 2019-02-03
 draft: false
-tags: ["C++", "生命游戏", ".rle"]
+tags: ["C++", "生命游戏", ".rle", "编码"]
 categories: ["编程"]
 author: "Tom Smith"
 ---
@@ -30,7 +30,7 @@ author: "Tom Smith"
 
 # .rle文件的格式
 
-```
+```rle
 #N Quasar
 #O Robert Wainwright
 #C A period 3 oscillator found in August 1971 that is quite similar to
