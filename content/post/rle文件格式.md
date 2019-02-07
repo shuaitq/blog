@@ -10,7 +10,7 @@ author: "Tom Smith"
 # 前言
 之所以会了解到.rle文件，是因为在重构[Game-of-Life](https://github.com/shuaitq/Game-of-Life)的时候找到了一个关于生命游戏的Wiki：[LifeWiki](http://conwaylife.com/wiki/Main_Page)。在这个Wiki上面查阅了很多资料，发现这个网站关于生命游戏的资料非常全而且准确。然后在查着资料的时候突然注意到了在首页的一个下载图标
 
-![](/download_pattern.png)
+![](/image/download_pattern.png)
 
 根据我对生命游戏的了解，当时猜测应该是类似保存生命的文件。然后就下载了下来看了看，发现里面有2000+个各式各样的生命游戏里的生命，而且都按照.rle文件格式保存，格式规范。于是我就决定抛弃之前使用手写json文件来输入生命初始状态的方法。毕竟支持了.rle就意味着有着一大堆开箱即用的生命（~~真香~~）
 
