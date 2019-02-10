@@ -21,12 +21,12 @@ weight: 50
 
 开发环境： Fedora + VS Code + 编译器
 
-编程语言： C++ = C > Java = Python = Go > Haskell > Rust
+编程语言： C++ with C++11 = C > Java = Python = Go > Haskell > Rust
 
 # 项目
 
-* [MIPS-CPU](https://github.com/shuaitq/MIPS-CPU) 一个使用Verilog语言开发的，基于MIPS32 Release 1指令集的五级流水CPU
 * [MoonLight](https://github.com/shuaitq/MoonLight) 一个使用C++写的基于光线追踪算法的渲染器
+* [MIPS-CPU](https://github.com/shuaitq/MIPS-CPU) 一个使用Verilog语言开发的，基于MIPS32 Release 1指令集的五级流水CPU
 * [Aurora](https://github.com/shuaitq/Aurora) 一个使用C++写的光栅化渲染器
 * [Game-of-Life](https://github.com/shuaitq/Game-of-Life) 一个模拟康威生命游戏的软件
 
