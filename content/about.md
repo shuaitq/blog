@@ -11,9 +11,15 @@ weight: 50
 
 我是一名哈尔滨工业大学（威海）计算机科学与技术的在读学生，预计在2020年毕业。
 
+# 简历
+
+目前接受实习职位，欢迎邮件至<i@shuaitq.com>勾搭  
+[下载pdf](https://github.com/shuaitq/resume/raw/master/resume-zh.pdf)  
+[LaTeX源码](https://github.com/shuaitq/resume)  
+
 # 找到我
 
-* Email: <1101282468@qq.com>
+* Email: <i@shuaitq.com>
 * QQ: 1101282468
 * Github: [https://github.com/shuaitq](https://github.com/shuaitq)
 

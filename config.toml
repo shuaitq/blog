@@ -80,5 +80,5 @@ defaultContentLanguage = "en"           # Default language to use
   customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
 
   [params.social]                                         # 社交链接
-    a-email = "mailto:1101282468@qq.com"
+    a-email = "mailto:i@shuaitq.com"
     g-github = "https://github.com/shuaitq"
