@@ -31,9 +31,9 @@ weight: 50
 
 # 项目
 
-* [MoonLight](https://github.com/shuaitq/MoonLight) 一个使用C++语言编写的CPU计算蒙特卡洛方法光线追踪渲染器
+* [MoonLight](https://github.com/shuaitq/MoonLight) 一个使用无偏蒙特卡洛路径追踪的全局光照渲染器
 * [MIPS-CPU](https://github.com/shuaitq/MIPS-CPU) 一个使用Verilog语言开发的，基于MIPS32 Release 1指令集的五级流水CPU
-* [Aurora](https://github.com/shuaitq/Aurora) 一个使用C++写的光栅化渲染器
+* [Aurora](https://github.com/shuaitq/Aurora) 一个软件光栅化渲染器
 * [Game-of-Life](https://github.com/shuaitq/Game-of-Life) 一个模拟康威生命游戏的软件
 
 # 竞赛奖项
